@@ -1,0 +1,15 @@
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\MainWindow.g.cs
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\App.g.cs
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\Gomoku_MarkupCompile.cache
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\Gomoku_MarkupCompile.lref
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\MainWindow.baml
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\Gomoku.g.resources
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\MobyDi\Desktop\Algorithms\Gomoku\Gomoku\Gomoku\obj\Debug\Gomoku.pdb

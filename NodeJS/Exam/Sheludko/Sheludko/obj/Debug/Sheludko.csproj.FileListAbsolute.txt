@@ -1,0 +1,14 @@
+C:\Users\MobyDi\Desktop\WebC#Labaratorians\Exam\Sheludko\Sheludko\bin\Debug\Sheludko.exe.config
+C:\Users\MobyDi\Desktop\WebC#Labaratorians\Exam\Sheludko\Sheludko\bin\Debug\Sheludko.exe
+C:\Users\MobyDi\Desktop\WebC#Labaratorians\Exam\Sheludko\Sheludko\bin\Debug\Sheludko.pdb
+C:\Users\MobyDi\Desktop\WebC#Labaratorians\Exam\Sheludko\Sheludko\obj\Debug\Sheludko.csprojResolveAssemblyReference.cache
+C:\Users\MobyDi\Desktop\WebC#Labaratorians\Exam\Sheludko\Sheludko\obj\Debug\Sheludko.csproj.CoreCompileInputs.cache
+C:\Users\MobyDi\Desktop\WebC#Labaratorians\Exam\Sheludko\Sheludko\obj\Debug\Sheludko.exe
+C:\Users\MobyDi\Desktop\WebC#Labaratorians\Exam\Sheludko\Sheludko\obj\Debug\Sheludko.pdb
+C:\Users\MobyDi\Desktop\Exam\Sheludko\Sheludko\bin\Debug\Sheludko.exe.config
+C:\Users\MobyDi\Desktop\Exam\Sheludko\Sheludko\bin\Debug\Sheludko.exe
+C:\Users\MobyDi\Desktop\Exam\Sheludko\Sheludko\bin\Debug\Sheludko.pdb
+C:\Users\MobyDi\Desktop\Exam\Sheludko\Sheludko\obj\Debug\Sheludko.csprojResolveAssemblyReference.cache
+C:\Users\MobyDi\Desktop\Exam\Sheludko\Sheludko\obj\Debug\Sheludko.csproj.CoreCompileInputs.cache
+C:\Users\MobyDi\Desktop\Exam\Sheludko\Sheludko\obj\Debug\Sheludko.exe
+C:\Users\MobyDi\Desktop\Exam\Sheludko\Sheludko\obj\Debug\Sheludko.pdb

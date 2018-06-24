@@ -1,0 +1,33 @@
+﻿<Window x:Class="ThailandForm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ThailandForm"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="703" Width="653"
+        WindowStyle="SingleBorderWindow"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\MobyDi\Desktop\Algorithms\Algorithms\AStarAndGreedy\ThailandForm\ThailandForm\ThailandMap.png"/>
+        </Grid.Background>
+        
+        <RadioButton x:Uid="0" x:Name="Banhgkok" Content="" HorizontalAlignment="Left" Height="19" Margin="207,0,0,37" VerticalAlignment="Bottom" Width="21" Background="White" Foreground="White" BorderBrush="Black"/>
+        <RadioButton x:Uid="1" x:Name="Sufanburi" Content="" HorizontalAlignment="Left" Height="29.5" Margin="172,0,0,78.5" VerticalAlignment="Bottom" Width="21"/>
+        <RadioButton x:Uid="2" x:Name="Saraburi" Content="" HorizontalAlignment="Left" Height="29.5" Margin="245,0,0,78.5" VerticalAlignment="Bottom" Width="21"/>
+        <RadioButton x:Uid="3" x:Name="Lopburi" Content="" HorizontalAlignment="Left" Height="26.5" Margin="217,0,0,117.5" VerticalAlignment="Bottom" Width="21"/>
+        <RadioButton x:Uid="4" x:Name="Nakhonrachasima" Content="" HorizontalAlignment="Right" Height="26.5" Margin="0,0,286,117.5" VerticalAlignment="Bottom" Width="21"/>
+        <RadioButton x:Uid="5" x:Name="Buriram" Content="" HorizontalAlignment="Right" Height="26.5" Margin="0,0,201,131.5" VerticalAlignment="Bottom" Width="21"/>
+        <RadioButton x:Uid="6" x:Name="Chaiapkum" Content="" HorizontalAlignment="Right" Height="19" Margin="0,0,286,222" VerticalAlignment="Bottom" Width="21"/>
+        <RadioButton x:Uid="7" x:Name="Nakhonsavan" Content="" HorizontalAlignment="Left" Height="23.5" Margin="172,0,0,205.5" VerticalAlignment="Bottom" Width="21"/>
+        <RadioButton x:Uid="8" x:Name="Phuchet" Content="" HorizontalAlignment="Left" Height="26.5" Margin="192,0,0,257.5" VerticalAlignment="Bottom" Width="21"/>
+        <RadioButton x:Uid="9" x:Name="Phethabun" Content="" HorizontalAlignment="Left" Height="26.5" Margin="258,0,0,257.5" VerticalAlignment="Bottom" Width="21"/>
+        <RadioButton x:Uid="10" x:Name="Phitsanulok" Content="" HorizontalAlignment="Left" Height="17.5" Margin="217,317,0,0" VerticalAlignment="Top" Width="21"/>
+        <RadioButton x:Uid="11" x:Name="Sukhotay" Content="Сукхотай" HorizontalAlignment="Left" Margin="107,284,0,0" Width="72" Height="23" VerticalAlignment="Top"/>
+        <RadioButton x:Uid="12" x:Name="Lampang" Content="" HorizontalAlignment="Left" Height="19" Margin="119,190,0,0" VerticalAlignment="Top" Width="21"/>
+        <RadioButton x:Uid="13" x:Name="Tak" Content="Tak" HorizontalAlignment="Left" Margin="97,334,0,0" VerticalAlignment="Top" Width="19"/>
+        <RadioButton x:Uid="14" x:Name="Phaiao" Content="" HorizontalAlignment="Left" Height="17.5" Margin="172,100.5,0,0" VerticalAlignment="Top" Width="21"/>
+       
+    </Grid>
+</Window>

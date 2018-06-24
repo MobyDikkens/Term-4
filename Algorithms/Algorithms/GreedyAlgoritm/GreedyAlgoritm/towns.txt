@@ -1,0 +1,15 @@
+Phuket,0
+Bangkok,1
+ChiangMai,2
+Pattaya,3
+CrabandClaw,4
+SuratThani,5
+HatYai,6
+NakhonRatchasima,7
+AoNang,8
+Tak,9
+Lopburi,10
+PakKret,11
+UdonThani,12
+ChonBuri,13
+Nan,14
